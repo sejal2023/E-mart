@@ -30,10 +30,6 @@ e-Mart will be the portal that will allow its valid members to shop various item
 ✅ Automatic email notification with **PDF invoice**  
 ✅ Loyalty points and discount management  
 
-### 🔹 **Admin Panel**  
-✅ Product & inventory management  
-✅ Discount & promotional offers  
-✅ User & order management  
 
 ---
 
