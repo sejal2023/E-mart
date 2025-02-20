@@ -3,34 +3,39 @@
 ![E-Mart Banner]![image](https://github.com/user-attachments/assets/fa774ab7-f421-4fea-bb75-c9a66e88ba28)
 
 
-## 📌 Project Description 
+## Project Description
 
-e-Mart will be the portal that will allow its valid members to shop various items from different categories. Non-Members would be able to view items, its details etc. However, one must be a member before making any purchase. Sign-on / Member registration can be done thru the provided link(s) on Home-page. The site should have following facilities - Browse thru various categories (thru top menu buttons) Go to specific subcategory (thru expandable links on left panel) Add items in cart On check-out final invoice to be displayed with "Modify" facility Payment thru Credit-card / internet banking On successful payment auto-mail should be sent to customer along with invoice copy.
+The e-Mart platform is designed to provide a seamless and secure online shopping experience. It allows registered members to purchase items from various categories, while non-members can only browse products and view their details. Member registration can be completed via links available on the homepage. The system is designed to ensure secure transactions using credit cards or internet banking.
 
+## Key Features
 
-### 🔹 **Who Can Use This Platform?**  
-- Any registered member with a **credit card** or **internet banking** account.  
-- Users can browse items, add them to the cart, and securely complete transactions.  
+1) User Management :
 
----
+Member registration and login with secure JWT authentication.
 
-## 🚀 Features  
+Password recovery options for user convenience.
 
-### 🔹 **User Management**  
-✅ Member registration & login  
-✅ Secure authentication with JWT  
-✅ Password recovery options  
+2) Shopping & Cart Management :
 
-### 🔹 **Shopping & Order Management**  
-✅ Browse through categories & subcategories  
-✅ Add/remove items from the cart  
-✅ Checkout with invoice generation  
+Browse through different categories using the top menu.
 
-### 🔹 **Payment & Transactions**  
-✅ Payment via **Credit Card / Internet Banking**  
-✅ Automatic email notification with **PDF invoice**  
-✅ Loyalty points and discount management  
+Navigate to specific subcategories via expandable links on the left panel.
 
+Add or remove items from the shopping cart.
+
+Modify items in the cart before checkout.
+
+3) Checkout & Payment :
+
+Generate a final invoice during checkout with the option to modify items.
+
+Make secure payments using credit cards or internet banking.
+
+Receive an automated email notification with a PDF invoice upon successful payment.
+
+4) Target Users :
+
+Any registered member with a valid credit card or internet banking account.
 
 ---
 
