@@ -1,0 +1,376 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\CDAC\\dot Net\\1project\\E-mart\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B2463C4B-0420-40C4-A442-6E4DFAA33A66}|E-mart.csproj|c:\\cdac\\dot net\\1project\\e-mart\\models\\paymentmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2463C4B-0420-40C4-A442-6E4DFAA33A66}|E-mart.csproj|solutionrelative:models\\paymentmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2463C4B-0420-40C4-A442-6E4DFAA33A66}|E-mart.csproj|c:\\cdac\\dot net\\1project\\e-mart\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2463C4B-0420-40C4-A442-6E4DFAA33A66}|E-mart.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2463C4B-0420-40C4-A442-6E4DFAA33A66}|E-mart.csproj|c:\\cdac\\dot net\\1project\\e-mart\\models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2463C4B-0420-40C4-A442-6E4DFAA33A66}|E-mart.csproj|solutionrelative:models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2463C4B-0420-40C4-A442-6E4DFAA33A66}|E-mart.csproj|c:\\cdac\\dot net\\1project\\e-mart\\models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2463C4B-0420-40C4-A442-6E4DFAA33A66}|E-mart.csproj|solutionrelative:models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2463C4B-0420-40C4-A442-6E4DFAA33A66}|E-mart.csproj|c:\\cdac\\dot net\\1project\\e-mart\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2463C4B-0420-40C4-A442-6E4DFAA33A66}|E-mart.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2463C4B-0420-40C4-A442-6E4DFAA33A66}|E-mart.csproj|c:\\cdac\\dot net\\1project\\e-mart\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2463C4B-0420-40C4-A442-6E4DFAA33A66}|E-mart.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2463C4B-0420-40C4-A442-6E4DFAA33A66}|E-mart.csproj|c:\\cdac\\dot net\\1project\\e-mart\\services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2463C4B-0420-40C4-A442-6E4DFAA33A66}|E-mart.csproj|solutionrelative:services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2463C4B-0420-40C4-A442-6E4DFAA33A66}|E-mart.csproj|c:\\cdac\\dot net\\1project\\e-mart\\repositories\\emartdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2463C4B-0420-40C4-A442-6E4DFAA33A66}|E-mart.csproj|solutionrelative:repositories\\emartdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2463C4B-0420-40C4-A442-6E4DFAA33A66}|E-mart.csproj|c:\\cdac\\dot net\\1project\\e-mart\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2463C4B-0420-40C4-A442-6E4DFAA33A66}|E-mart.csproj|solutionrelative:services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2463C4B-0420-40C4-A442-6E4DFAA33A66}|E-mart.csproj|c:\\cdac\\dot net\\1project\\e-mart\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2463C4B-0420-40C4-A442-6E4DFAA33A66}|E-mart.csproj|solutionrelative:controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2463C4B-0420-40C4-A442-6E4DFAA33A66}|E-mart.csproj|c:\\cdac\\dot net\\1project\\e-mart\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2463C4B-0420-40C4-A442-6E4DFAA33A66}|E-mart.csproj|solutionrelative:models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2463C4B-0420-40C4-A442-6E4DFAA33A66}|E-mart.csproj|c:\\cdac\\dot net\\1project\\e-mart\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2463C4B-0420-40C4-A442-6E4DFAA33A66}|E-mart.csproj|solutionrelative:models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2463C4B-0420-40C4-A442-6E4DFAA33A66}|E-mart.csproj|c:\\cdac\\dot net\\1project\\e-mart\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2463C4B-0420-40C4-A442-6E4DFAA33A66}|E-mart.csproj|solutionrelative:controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2463C4B-0420-40C4-A442-6E4DFAA33A66}|E-mart.csproj|c:\\cdac\\dot net\\1project\\e-mart\\controllers\\paymentdetailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2463C4B-0420-40C4-A442-6E4DFAA33A66}|E-mart.csproj|solutionrelative:controllers\\paymentdetailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2463C4B-0420-40C4-A442-6E4DFAA33A66}|E-mart.csproj|c:\\cdac\\dot net\\1project\\e-mart\\controllers\\subcategorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2463C4B-0420-40C4-A442-6E4DFAA33A66}|E-mart.csproj|solutionrelative:controllers\\subcategorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2463C4B-0420-40C4-A442-6E4DFAA33A66}|E-mart.csproj|c:\\cdac\\dot net\\1project\\e-mart\\models\\subcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2463C4B-0420-40C4-A442-6E4DFAA33A66}|E-mart.csproj|solutionrelative:models\\subcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2463C4B-0420-40C4-A442-6E4DFAA33A66}|E-mart.csproj|c:\\cdac\\dot net\\1project\\e-mart\\custommiddlewares\\globalexceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2463C4B-0420-40C4-A442-6E4DFAA33A66}|E-mart.csproj|solutionrelative:custommiddlewares\\globalexceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2463C4B-0420-40C4-A442-6E4DFAA33A66}|E-mart.csproj|c:\\cdac\\dot net\\1project\\e-mart\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2463C4B-0420-40C4-A442-6E4DFAA33A66}|E-mart.csproj|solutionrelative:controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2463C4B-0420-40C4-A442-6E4DFAA33A66}|E-mart.csproj|c:\\cdac\\dot net\\1project\\e-mart\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2463C4B-0420-40C4-A442-6E4DFAA33A66}|E-mart.csproj|solutionrelative:dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2463C4B-0420-40C4-A442-6E4DFAA33A66}|E-mart.csproj|c:\\cdac\\dot net\\1project\\e-mart\\controllers\\tokencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2463C4B-0420-40C4-A442-6E4DFAA33A66}|E-mart.csproj|solutionrelative:controllers\\tokencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2463C4B-0420-40C4-A442-6E4DFAA33A66}|E-mart.csproj|c:\\cdac\\dot net\\1project\\e-mart\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2463C4B-0420-40C4-A442-6E4DFAA33A66}|E-mart.csproj|solutionrelative:controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PaymentMethod.cs",
+              "DocumentMoniker": "C:\\CDAC\\dot Net\\1project\\E-mart\\Models\\PaymentMethod.cs",
+              "RelativeDocumentMoniker": "Models\\PaymentMethod.cs",
+              "ToolTip": "C:\\CDAC\\dot Net\\1project\\E-mart\\Models\\PaymentMethod.cs",
+              "RelativeToolTip": "Models\\PaymentMethod.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T23:36:43.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Cart.cs",
+              "DocumentMoniker": "C:\\CDAC\\dot Net\\1project\\E-mart\\Models\\Cart.cs",
+              "RelativeDocumentMoniker": "Models\\Cart.cs",
+              "ToolTip": "C:\\CDAC\\dot Net\\1project\\E-mart\\Models\\Cart.cs",
+              "RelativeToolTip": "Models\\Cart.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAowDAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T07:53:47.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Cartitem.cs",
+              "DocumentMoniker": "C:\\CDAC\\dot Net\\1project\\E-mart\\Models\\Cartitem.cs",
+              "RelativeDocumentMoniker": "Models\\Cartitem.cs",
+              "ToolTip": "C:\\CDAC\\dot Net\\1project\\E-mart\\Models\\Cartitem.cs",
+              "RelativeToolTip": "Models\\Cartitem.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAA5wCMAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T07:48:51.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "eMartDbContext.cs",
+              "DocumentMoniker": "C:\\CDAC\\dot Net\\1project\\E-mart\\Repositories\\eMartDbContext.cs",
+              "RelativeDocumentMoniker": "Repositories\\eMartDbContext.cs",
+              "ToolTip": "C:\\CDAC\\dot Net\\1project\\E-mart\\Repositories\\eMartDbContext.cs",
+              "RelativeToolTip": "Repositories\\eMartDbContext.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T06:16:34.747Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\CDAC\\dot Net\\1project\\E-mart\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "Services\\ProductService.cs",
+              "ToolTip": "C:\\CDAC\\dot Net\\1project\\E-mart\\Services\\ProductService.cs",
+              "RelativeToolTip": "Services\\ProductService.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T06:16:22.142Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "C:\\CDAC\\dot Net\\1project\\E-mart\\Services\\IProductService.cs",
+              "RelativeDocumentMoniker": "Services\\IProductService.cs",
+              "ToolTip": "C:\\CDAC\\dot Net\\1project\\E-mart\\Services\\IProductService.cs",
+              "RelativeToolTip": "Services\\IProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T06:16:14.738Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\CDAC\\dot Net\\1project\\E-mart\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "C:\\CDAC\\dot Net\\1project\\E-mart\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAowDQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T05:24:06.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\CDAC\\dot Net\\1project\\E-mart\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "Models\\Category.cs",
+              "ToolTip": "C:\\CDAC\\dot Net\\1project\\E-mart\\Models\\Category.cs",
+              "RelativeToolTip": "Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T11:52:12.318Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\CDAC\\dot Net\\1project\\E-mart\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "Models\\Order.cs",
+              "ToolTip": "C:\\CDAC\\dot Net\\1project\\E-mart\\Models\\Order.cs",
+              "RelativeToolTip": "Models\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T11:52:11.437Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PaymentDetailController.cs",
+              "DocumentMoniker": "C:\\CDAC\\dot Net\\1project\\E-mart\\Controllers\\PaymentDetailController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PaymentDetailController.cs",
+              "ToolTip": "C:\\CDAC\\dot Net\\1project\\E-mart\\Controllers\\PaymentDetailController.cs",
+              "RelativeToolTip": "Controllers\\PaymentDetailController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T10:35:37.199Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\CDAC\\dot Net\\1project\\E-mart\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Models\\Product.cs",
+              "ToolTip": "C:\\CDAC\\dot Net\\1project\\E-mart\\Models\\Product.cs",
+              "RelativeToolTip": "Models\\Product.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAcwC8AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T09:55:46.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "SubCategoryController.cs",
+              "DocumentMoniker": "C:\\CDAC\\dot Net\\1project\\E-mart\\Controllers\\SubCategoryController.cs",
+              "RelativeDocumentMoniker": "Controllers\\SubCategoryController.cs",
+              "ToolTip": "C:\\CDAC\\dot Net\\1project\\E-mart\\Controllers\\SubCategoryController.cs",
+              "RelativeToolTip": "Controllers\\SubCategoryController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T07:54:29.969Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Subcategory.cs",
+              "DocumentMoniker": "C:\\CDAC\\dot Net\\1project\\E-mart\\Models\\Subcategory.cs",
+              "RelativeDocumentMoniker": "Models\\Subcategory.cs",
+              "ToolTip": "C:\\CDAC\\dot Net\\1project\\E-mart\\Models\\Subcategory.cs",
+              "RelativeToolTip": "Models\\Subcategory.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAIwCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T07:34:33.577Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "UserDTO.cs",
+              "DocumentMoniker": "C:\\CDAC\\dot Net\\1project\\E-mart\\Dtos\\UserDTO.cs",
+              "RelativeDocumentMoniker": "Dtos\\UserDTO.cs",
+              "ToolTip": "C:\\CDAC\\dot Net\\1project\\E-mart\\Dtos\\UserDTO.cs",
+              "RelativeToolTip": "Dtos\\UserDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T07:30:21.156Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\CDAC\\dot Net\\1project\\E-mart\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductController.cs",
+              "ToolTip": "C:\\CDAC\\dot Net\\1project\\E-mart\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Controllers\\ProductController.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAgwEYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T06:48:21.403Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "TokenController.cs",
+              "DocumentMoniker": "C:\\CDAC\\dot Net\\1project\\E-mart\\Controllers\\TokenController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TokenController.cs",
+              "ToolTip": "C:\\CDAC\\dot Net\\1project\\E-mart\\Controllers\\TokenController.cs",
+              "RelativeToolTip": "Controllers\\TokenController.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T06:08:55.211Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\CDAC\\dot Net\\1project\\E-mart\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\CDAC\\dot Net\\1project\\E-mart\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAADcBAAAAAAAAAAAAwEEBAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T06:07:33.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\CDAC\\dot Net\\1project\\E-mart\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UserController.cs",
+              "ToolTip": "C:\\CDAC\\dot Net\\1project\\E-mart\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Controllers\\UserController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAA/wCgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T06:06:14.818Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\CDAC\\dot Net\\1project\\E-mart\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\CDAC\\dot Net\\1project\\E-mart\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "Controllers\\CategoryController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T06:04:13.158Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "C:\\CDAC\\dot Net\\1project\\E-mart\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CartController.cs",
+              "ToolTip": "C:\\CDAC\\dot Net\\1project\\E-mart\\Controllers\\CartController.cs",
+              "RelativeToolTip": "Controllers\\CartController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T06:02:35.07Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "GlobalExceptionMiddleware.cs",
+              "DocumentMoniker": "C:\\CDAC\\dot Net\\1project\\E-mart\\CustomMiddlewares\\GlobalExceptionMiddleware.cs",
+              "RelativeDocumentMoniker": "CustomMiddlewares\\GlobalExceptionMiddleware.cs",
+              "ToolTip": "C:\\CDAC\\dot Net\\1project\\E-mart\\CustomMiddlewares\\GlobalExceptionMiddleware.cs",
+              "RelativeToolTip": "CustomMiddlewares\\GlobalExceptionMiddleware.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T05:44:09.982Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 149,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
