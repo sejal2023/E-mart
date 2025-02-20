@@ -7,35 +7,35 @@
 
 The e-Mart platform is designed to provide a seamless and secure online shopping experience. It allows registered members to purchase items from various categories, while non-members can only browse products and view their details. Member registration can be completed via links available on the homepage. The system is designed to ensure secure transactions using credit cards or internet banking.
 
-## Key Features
+🚀 Key Features
 
-1) User Management :
+🔹 User Management
 
-  Member registration and login with secure JWT authentication.
+Member registration and login with JWT authentication.
 
-  Password recovery options for user convenience.
+Secure password recovery options.
 
-2) Shopping & Cart Management :
+🔹 Shopping & Cart Management
 
-  Browse through different categories using the top menu.
+Browse different categories using a structured menu.
 
-  Navigate to specific subcategories via expandable links on the left panel.
+Navigate subcategories via expandable links.
 
-  Add or remove items from the shopping cart.
+Add, remove, or modify items in the shopping cart.
 
-  Modify items in the cart before checkout.
+🔹 Checkout & Payment
 
-3) Checkout & Payment :
+Generate a final invoice before checkout.
 
-  Generate a final invoice during checkout with the option to modify items.
+Secure payments via credit card or internet banking.
 
-  Make secure payments using credit cards or internet banking.
+Receive an automated email notification with a PDF invoice upon successful payment.
 
-  Receive an automated email notification with a PDF invoice upon successful payment.
+🔹 Target Users
 
-4) Target Users :
+Any registered member with a valid credit card or internet banking account.
 
-  Any registered member with a valid credit card or internet banking account.
+
 
 ---
 
